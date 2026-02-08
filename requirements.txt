@@ -1,0 +1,26 @@
+# --- Data Collection and Processing ---
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+statsbombpy>=1.12.0
+SoccerNet>=0.1.0
+gitpython>=3.1.0
+requests>=2.31.0
+tqdm>=4.65.0
+kloppy>=3.14.0
+
+# --- Visualization ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+mplsoccer>=1.2.0
+
+# --- Machine Learning  ---
+scikit-learn>=1.3.0
+
+# --- Other things ---
+jupyter>=1.0.0
+ipykernel>=6.25.0
+black>=23.7.0
+pyyaml>=6.0
+six>=1.16.0
+packaging>=23.0
